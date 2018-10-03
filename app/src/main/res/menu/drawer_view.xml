@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/hotels_drawer_id"
+        android:title="@string/hotels_drawer_title" />
+    <item
+        android:id="@+id/restaurants_drawer_id"
+        android:title="@string/restaurants_drawer_title" />
+    <item
+        android:id="@+id/schools_drawer_id"
+        android:title="@string/schools_drawer_title" />
+    <item
+        android:id="@+id/shopping_drawer_id"
+        android:title="@string/shopping_drawer_title" />
+    <item
+        android:id="@+id/favorites_drawer_id"
+        android:title="@string/favorites_drawer_title" />
+</menu>

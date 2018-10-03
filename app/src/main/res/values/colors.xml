@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Main color for the list items-->
+    <color name="colorGreen">#228B22</color>
+    <color name="colorBlack">#000000</color>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+    <!-- Background color for the numbers category -->
+    <color name="color_white">#ffffff</color>
+</resources>
